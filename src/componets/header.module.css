@@ -1,0 +1,13 @@
+.bigBlue {
+  background-color: dodgerblue;
+  font-family: sans-serif;
+  padding: 40px;
+  color: crimson;
+  text-align: center;
+}
+
+.add {
+  color: white;
+  padding: 20px;
+  background-color: lightgreen;
+}
